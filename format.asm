@@ -1,3 +1,6 @@
-.globl _start
-_start:
-b fnstart
+.extern exit
+.global _starts
+_starts:
+call main
+jmp exit
+

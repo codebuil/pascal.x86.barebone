@@ -1,1 +1,3 @@
-ENTRY (_start)
+ENTRY (_starts)
+
+
