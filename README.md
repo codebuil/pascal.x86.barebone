@@ -1,2 +1,2 @@
-# java.2.elf
-java into elf
+#gcc.2elf
+gcc 2 elf exe
