@@ -1,2 +1,2 @@
-# java.2.asm
-java decompiler decompiles java
+# java.2.elf
+java into elf
